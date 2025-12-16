@@ -1,0 +1,121 @@
+feedback_id,citizen_id,category,channel,department,submit_time
+FB1000,CD113,Môi trường,Truc tiep,phong  tnmt,2024-01-21 12:47
+FB1001, CD114,Ha tang,web site,phong  tnmt,27/01/2024 15:37
+FB1002, CD142,ha  tang,Hotline,ubnd  phuong,2024-01-30 15:36
+FB1003,cd102,Môi trường,hot line,cong  an,04/01/2024 07:44
+FB1004,CD105,Moi truong,Hotline,UBND phuong,2024-01-20 17:07
+FB1005, CD126,Ha tang,App,Cong an,04/01/2024 06:49
+FB1006,cd108,Hạ tầng,APP,Công an,19/01/2024 20:54
+FB1007,CD127 ,Ha tang,Website,cong  an,2024-02-28 12:23
+FB1008, CD118,An ninh,hot line,UBND phuong,16/01/2024 17:04
+FB1009,cd147,Thu tuc,Hotline,Phong TNMT,03/02/2024 12:53
+FB1010,cd147,Hạ tầng,hot line,Phòng TNMT,24/02/2024 11:27
+FB1011,CD144 ,Ha tang,Hotline,Phòng TNMT,14/02/2024 14:59
+FB1012, CD141,Moi truong,trực tiếp,ubnd  phuong,08/01/2024 03:23
+FB1013,CD129 ,Ha tang,trực tiếp,Phong TNMT,2024-02-21 10:56
+FB1014, CD131,Thu tuc,APP,Công an,2024-01-01 09:31
+FB1015,CD144 ,ha  tang,Website,ubnd  phuong,2024-02-28 21:13
+FB1016,CD129 ,Thủ tục hành chính,hot line,cong  an,22/02/2024 11:53
+FB1017,CD104,An ninh,web site,cong  an,2024-01-15 07:10
+FB1018,CD129 ,an  ninh,trực tiếp,phong  tnmt,03/01/2024 20:24
+FB1019,cd107,Môi trường,Website,ubnd  phuong,05/02/2024 20:46
+FB1020,cd149,Môi trường,Truc tiep,Công an,2024-02-05 04:56
+FB1021, CD109,An ninh,Truc tiep,phong  tnmt,2024-02-23 14:43
+FB1022,CD115 ,An ninh,web site,Phòng TNMT,2024-01-14 13:16
+FB1023,CD105,Thủ tục hành chính,App,ubnd  phuong,2024-01-04 01:51
+FB1024,CD145,Ha tang,hot line,phong  tnmt,10/01/2024 23:02
+FB1025,cd147,Ha tang,trực tiếp,Phong TNMT,26/01/2024 00:09
+FB1026, CD148,Thủ tục hành chính,hot line,Công an,26/02/2024 12:55
+FB1027,CD143,ha  tang,trực tiếp,ubnd  phuong,2024-01-20 00:05
+FB1028,CD143,an  ninh,APP,Phong TNMT,2024-01-10 04:46
+FB1029,CD123,ha  tang,Hotline,UBND phuong,2024-02-03 01:17
+FB1030, CD110,Môi trường,hot line,UBND phuong,16/01/2024 17:48
+FB1031,cd124,An ninh,Website,UBND phuong,2024-02-04 16:16
+FB1032,CD146,an  ninh,Hotline,UBND phường,2024-02-05 00:34
+FB1033,CD100 ,Moi truong,trực tiếp,phong  tnmt,26/01/2024 01:40
+FB1034,CD128 ,an  ninh,Hotline,Phong TNMT,26/01/2024 04:54
+FB1035,cd138,Moi truong,Website,Phòng TNMT,2024-01-30 07:28
+FB1036,CD128 ,Hạ tầng,app ,UBND phường,15/02/2024 05:14
+FB1037,CD143,Moi truong,Hotline,UBND phường,2024-02-02 12:25
+FB1038, CD142,An ninh,Truc tiep,Công an,2024-01-07 16:30
+FB1039,CD130 ,an  ninh,web site,UBND phường,2024-01-23 15:52
+FB1040,CD105,Thu tuc,Website,Cong an,2024-01-13 01:37
+FB1041,CD128 ,Thủ tục hành chính,App,phong  tnmt,2024-01-19 14:21
+FB1042, CD118,ha  tang,web site,Công an,01/01/2024 13:21
+FB1043,cd101,Thu tuc,hot line,UBND phuong,2024-02-26 19:54
+FB1044, CD139,ha  tang,hot line,ubnd  phuong,07/01/2024 18:07
+FB1045,cd120,Thủ tục hành chính,app ,Phòng TNMT,11/02/2024 14:30
+FB1046,cd149,ha  tang,trực tiếp,phong  tnmt,26/02/2024 16:03
+FB1047,CD127 ,Ha tang,APP,Phong TNMT,11/01/2024 12:54
+FB1048,cd103,ha  tang,hot line,UBND phuong,03/01/2024 11:51
+FB1049,CD100 ,An ninh,APP,cong  an,29/02/2024 00:41
+FB1050,cd107,ha  tang,Hotline,Phong TNMT,2024-02-01 10:05
+FB1051,CD123,Ha tang,hot line,Công an,25/01/2024 20:47
+FB1052, CD114,Thu tuc,trực tiếp,Phòng TNMT,29/02/2024 16:56
+FB1053,CD145,Thu tuc,APP,phong  tnmt,2024-01-03 01:16
+FB1054, CD114,Môi trường,app ,ubnd  phuong,2024-02-27 09:36
+FB1055,CD123,Moi truong,app ,Phòng TNMT,2024-01-31 01:56
+FB1056,CD135,an  ninh,Hotline,Cong an,12/02/2024 15:01
+FB1057, CD148,Moi truong,App,cong  an,27/01/2024 08:24
+FB1058,CD116 ,an  ninh,hot line,cong  an,20/02/2024 23:20
+FB1059,cd120,Moi truong,hot line,UBND phường,2024-01-27 12:15
+FB1060,cd119,Moi truong,trực tiếp,Phòng TNMT,20/02/2024 14:32
+FB1061, CD142,Hạ tầng,Website,phong  tnmt,07/02/2024 02:28
+FB1062,CD146,An ninh,hot line,UBND phường,2024-02-16 04:11
+FB1063, CD118,Hạ tầng,Truc tiep,Công an,24/02/2024 23:43
+FB1064,CD112 ,Moi truong,app ,UBND phường,11/01/2024 00:46
+FB1065,CD104,ha  tang,Website,UBND phường,2024-01-20 00:11
+FB1066,CD105,an  ninh,trực tiếp,ubnd  phuong,2024-02-25 13:22
+FB1067, CD126,Thu tuc,web site,Công an,2024-01-30 23:14
+FB1068,CD145,Môi trường,app ,Phòng TNMT,2024-03-01 13:20
+FB1069, CD142,Ha tang,Truc tiep,Cong an,2024-01-06 16:57
+FB1070,CD121,Thủ tục hành chính,App,cong  an,2024-01-06 10:45
+FB1071,CD128 ,an  ninh,Truc tiep,Cong an,10/01/2024 04:58
+FB1072,CD128 ,Môi trường,hot line,Công an,07/01/2024 14:54
+FB1073, CD118,Thủ tục hành chính,hot line,Phòng TNMT,2024-01-15 15:38
+FB1074,CD128 ,ha  tang,hot line,Phong TNMT,26/01/2024 04:57
+FB1075,CD127 ,An ninh,app ,Phòng TNMT,2024-02-13 22:10
+FB1076, CD139,Thu tuc,Hotline,UBND phuong,03/01/2024 19:57
+FB1077,cd103,Hạ tầng,Website,Phong TNMT,2024-02-08 10:26
+FB1078,CD145,Ha tang,hot line,cong  an,2024-01-14 07:47
+FB1079, CD141,Moi truong,APP,cong  an,2024-01-17 12:51
+FB1080,CD117,Ha tang,APP,ubnd  phuong,22/01/2024 19:20
+FB1081,cd120,Hạ tầng,app ,phong  tnmt,2024-01-25 02:56
+FB1082,CD145,Hạ tầng,app ,Cong an,29/02/2024 16:32
+FB1083,cd133,Môi trường,Website,UBND phuong,29/02/2024 06:15
+FB1084,CD104,Ha tang,APP,cong  an,2024-02-28 20:00
+FB1085,CD127 ,ha  tang,Truc tiep,Phòng TNMT,02/02/2024 06:07
+FB1086,cd136,Thu tuc,app ,Cong an,22/01/2024 07:30
+FB1087,CD135,Hạ tầng,trực tiếp,Phòng TNMT,2024-01-29 13:53
+FB1088,cd106,Thu tuc,Truc tiep,Cong an,2024-02-16 08:00
+FB1089, CD148,an  ninh,Website,Cong an,2024-01-29 11:50
+FB1090,cd106,Môi trường,APP,UBND phường,2024-02-01 15:10
+FB1091,CD123,Môi trường,App,UBND phường,01/01/2024 15:30
+FB1092,cd101,Thu tuc,web site,Cong an,2024-01-30 11:32
+FB1093,CD129 ,Ha tang,app ,Công an,17/02/2024 10:30
+FB1094,cd106,Thủ tục hành chính,app ,ubnd  phuong,2024-01-20 03:08
+FB1095,CD121,Thủ tục hành chính,APP,Công an,2024-01-10 01:45
+FB1096,CD143,Ha tang,App,phong  tnmt,2024-01-19 01:41
+FB1097,CD123,Hạ tầng,app ,phong  tnmt,23/01/2024 21:16
+FB1098, CD122,Ha tang,Website,ubnd  phuong,2024-01-07 02:51
+FB1099, CD142,an  ninh,web site,Phong TNMT,11/02/2024 11:39
+FB1100,cd119,Ha tang,Website,Cong an,20/01/2024 02:47
+FB1101,CD100 ,Môi trường,app ,phong  tnmt,25/01/2024 07:52
+FB1102,CD115 ,Hạ tầng,APP,phong  tnmt,2024-02-03 19:42
+FB1103, CD142,Môi trường,app ,phong  tnmt,2024-02-05 02:43
+FB1104,CD127 ,Môi trường,Hotline,UBND phường,14/01/2024 05:18
+FB1105,CD144 ,Thu tuc,Truc tiep,Công an,2024-01-19 14:16
+FB1106,CD112 ,Thu tuc,web site,cong  an,2024-02-17 04:57
+FB1107,cd106,Moi truong,hot line,Phòng TNMT,2024-02-18 15:35
+FB1108, CD148,Thu tuc,Hotline,phong  tnmt,06/01/2024 19:35
+FB1109,CD117,Thủ tục hành chính,App,ubnd  phuong,21/01/2024 22:25
+FB1110,CD123,An ninh,Hotline,phong  tnmt,30/01/2024 23:06
+FB1111, CD114,Thủ tục hành chính,app ,ubnd  phuong,2024-01-09 01:17
+FB1112, CD126,Môi trường,app ,cong  an,2024-01-17 03:23
+FB1113, CD140,Ha tang,Hotline,phong  tnmt,27/01/2024 18:46
+FB1114, CD140,an  ninh,App,ubnd  phuong,2024-01-14 10:20
+FB1115, CD148,Ha tang,hot line,UBND phuong,13/01/2024 09:07
+FB1116,CD123,an  ninh,APP,Công an,2024-01-25 15:33
+FB1117, CD131,Môi trường,web site,UBND phường,30/01/2024 01:10
+FB1118,cd107,Hạ tầng,APP,phong  tnmt,20/02/2024 14:16
+FB1119,cd106,ha  tang,APP,Phong TNMT,11/01/2024 17:00
