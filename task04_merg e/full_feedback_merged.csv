@@ -1,0 +1,153 @@
+feedback_id,citizen_id,category,channel,department,submit_time,area,resolved_time,status,resolution_hours
+FB1000,CD113,môi trường,truc tiep,phong  tnmt,2024-01-21 12:47:00,quan 1,2024-02-02 05:50:00,từ chối,
+FB1000,CD113,môi trường,truc tiep,phong  tnmt,2024-01-21 12:47:00,quan 1,,da xu ly,24.0
+FB1001, CD114,ha tang,web site,phong  tnmt,,,,,
+FB1002, CD142,ha  tang,hotline,ubnd  phuong,2024-01-30 15:36:00,,,,
+FB1003,cd102,môi trường,hot line,cong  an,,phuong a,,,
+FB1004,CD105,moi truong,hotline,ubnd phuong,2024-01-20 17:07:00,phuong a,2024-02-04 12:24:00,đã xử lý,8.0
+FB1005, CD126,ha tang,app,cong an,,,2024-03-03 03:18:00,tu choi,
+FB1005, CD126,ha tang,app,cong an,,,2024-02-12 20:05:00,tu choi,12.0
+FB1005, CD126,ha tang,app,cong an,,,,đã xử lý,8.0
+FB1006,cd108,hạ tầng,app,công an,,xã b,2024-01-21 06:00:00,da xu ly,8.0
+FB1007,CD127 ,ha tang,website,cong  an,2024-02-28 12:23:00,,,,
+FB1008, CD118,an ninh,hot line,ubnd phuong,,,,tu choi,4.0
+FB1008, CD118,an ninh,hot line,ubnd phuong,,,,da xu ly,24.0
+FB1009,cd147,thu tuc,hotline,phong tnmt,,quận 1,,,
+FB1010,cd147,hạ tầng,hot line,phòng tnmt,,quận 1,,,
+FB1011,CD144 ,ha tang,hotline,phòng tnmt,,,,,
+FB1012, CD141,moi truong,trực tiếp,ubnd  phuong,,,,,
+FB1013,CD129 ,ha tang,trực tiếp,phong tnmt,2024-02-21 10:56:00,,,dang  xu ly,72.0
+FB1013,CD129 ,ha tang,trực tiếp,phong tnmt,2024-02-21 10:56:00,,,,
+FB1014, CD131,thu tuc,app,công an,2024-01-01 09:31:00,,,,
+FB1015,CD144 ,ha  tang,website,ubnd  phuong,2024-02-28 21:13:00,,2024-02-11 08:12:00,dang  xu ly,24.0
+FB1015,CD144 ,ha  tang,website,ubnd  phuong,2024-02-28 21:13:00,,,tu choi,
+FB1016,CD129 ,thủ tục hành chính,hot line,cong  an,,,2024-02-17 02:47:00,,12.0
+FB1017,CD104,an ninh,web site,cong  an,2024-01-15 07:10:00,phường a,,,
+FB1018,CD129 ,an  ninh,trực tiếp,phong  tnmt,,,,từ chối,
+FB1019,cd107,môi trường,website,ubnd  phuong,,quan 1,,,
+FB1020,cd149,môi trường,truc tiep,công an,2024-02-05 04:56:00,quan 1,,,
+FB1021, CD109,an ninh,truc tiep,phong  tnmt,2024-02-23 14:43:00,,,tu choi,72.0
+FB1022,CD115 ,an ninh,web site,phòng tnmt,2024-01-14 13:16:00,,,từ chối,
+FB1023,CD105,thủ tục hành chính,app,ubnd  phuong,2024-01-04 01:51:00,phuong a,,,
+FB1024,CD145,ha tang,hot line,phong  tnmt,,phuong a,,,
+FB1025,cd147,ha tang,trực tiếp,phong tnmt,,quận 1,,,
+FB1026, CD148,thủ tục hành chính,hot line,công an,,,,da xu ly,4.0
+FB1026, CD148,thủ tục hành chính,hot line,công an,,,2024-01-19 16:12:00,,
+FB1027,CD143,ha  tang,trực tiếp,ubnd  phuong,2024-01-20 00:05:00,quan 1,,tu choi,8.0
+FB1027,CD143,ha  tang,trực tiếp,ubnd  phuong,2024-01-20 00:05:00,quan 1,,dang  xu ly,12.0
+FB1028,CD143,an  ninh,app,phong tnmt,2024-01-10 04:46:00,quan 1,2024-02-11 16:52:00,từ chối,72.0
+FB1028,CD143,an  ninh,app,phong tnmt,2024-01-10 04:46:00,quan 1,2024-02-22 12:29:00,từ chối,72.0
+FB1028,CD143,an  ninh,app,phong tnmt,2024-01-10 04:46:00,quan 1,,đang xử lý,12.0
+FB1029,CD123,ha  tang,hotline,ubnd phuong,2024-02-03 01:17:00,quận 1,,,
+FB1030, CD110,môi trường,hot line,ubnd phuong,,,,,
+FB1031,cd124,an ninh,website,ubnd phuong,2024-02-04 16:16:00,phuong a,,,
+FB1032,CD146,an  ninh,hotline,ubnd phường,2024-02-05 00:34:00,quan 1,,,
+FB1033,CD100 ,moi truong,trực tiếp,phong  tnmt,,,,da xu ly,
+FB1034,CD128 ,an  ninh,hotline,phong tnmt,,,,dang  xu ly,
+FB1035,cd138,moi truong,website,phòng tnmt,2024-01-30 07:28:00,xa  b,2024-01-25 18:00:00,tu choi,
+FB1035,cd138,moi truong,website,phòng tnmt,2024-01-30 07:28:00,xa  b,2024-01-01 08:56:00,đã xử lý,8.0
+FB1035,cd138,moi truong,website,phòng tnmt,2024-01-30 07:28:00,xa  b,,đang xử lý,8.0
+FB1035,cd138,moi truong,website,phòng tnmt,2024-01-30 07:28:00,xa  b,2024-02-02 10:22:00,tu choi,12.0
+FB1036,CD128 ,hạ tầng,app,ubnd phường,,,2024-01-24 06:04:00,đã xử lý,72.0
+FB1037,CD143,moi truong,hotline,ubnd phường,2024-02-02 12:25:00,quan 1,,,72.0
+FB1037,CD143,moi truong,hotline,ubnd phường,2024-02-02 12:25:00,quan 1,2024-02-18 02:25:00,,72.0
+FB1038, CD142,an ninh,truc tiep,công an,2024-01-07 16:30:00,,,đang xử lý,72.0
+FB1038, CD142,an ninh,truc tiep,công an,2024-01-07 16:30:00,,2024-01-10 00:45:00,da xu ly,4.0
+FB1039,CD130 ,an  ninh,web site,ubnd phường,2024-01-23 15:52:00,,,,
+FB1040,CD105,thu tuc,website,cong an,2024-01-13 01:37:00,phuong a,,,
+FB1041,CD128 ,thủ tục hành chính,app,phong  tnmt,2024-01-19 14:21:00,,,,
+FB1042, CD118,ha  tang,web site,công an,,,2024-02-21 09:49:00,da xu ly,
+FB1043,cd101,thu tuc,hot line,ubnd phuong,2024-02-26 19:54:00,xa  b,,,
+FB1044, CD139,ha  tang,hot line,ubnd  phuong,,,2024-02-17 04:49:00,từ chối,8.0
+FB1045,cd120,thủ tục hành chính,app,phòng tnmt,,quan 1,,,
+FB1046,cd149,ha  tang,trực tiếp,phong  tnmt,,quan 1,,từ chối,72.0
+FB1046,cd149,ha  tang,trực tiếp,phong  tnmt,,quan 1,,đang xử lý,24.0
+FB1047,CD127 ,ha tang,app,phong tnmt,,,2024-02-02 13:04:00,da xu ly,
+FB1048,cd103,ha  tang,hot line,ubnd phuong,,quận 1,2024-02-05 17:26:00,,
+FB1049,CD100 ,an ninh,app,cong  an,,,,từ chối,24.0
+FB1050,cd107,ha  tang,hotline,phong tnmt,2024-02-01 10:05:00,quan 1,2024-02-08 09:33:00,từ chối,
+FB1051,CD123,ha tang,hot line,công an,,quận 1,,,
+FB1052, CD114,thu tuc,trực tiếp,phòng tnmt,,,,da xu ly,12.0
+FB1053,CD145,thu tuc,app,phong  tnmt,2024-01-03 01:16:00,phuong a,,,
+FB1054, CD114,môi trường,app,ubnd  phuong,2024-02-27 09:36:00,,2024-02-22 08:38:00,dang  xu ly,4.0
+FB1055,CD123,moi truong,app,phòng tnmt,2024-01-31 01:56:00,quận 1,2024-01-23 10:04:00,từ chối,
+FB1055,CD123,moi truong,app,phòng tnmt,2024-01-31 01:56:00,quận 1,,da xu ly,
+FB1056,CD135,an  ninh,hotline,cong an,,quan 1,,,
+FB1057, CD148,moi truong,app,cong  an,,,2024-02-02 16:58:00,đang xử lý,8.0
+FB1057, CD148,moi truong,app,cong  an,,,2024-01-17 14:59:00,đã xử lý,
+FB1058,CD116 ,an  ninh,hot line,cong  an,,,,,
+FB1059,cd120,moi truong,hot line,ubnd phường,2024-01-27 12:15:00,quan 1,,,
+FB1060,cd119,moi truong,trực tiếp,phòng tnmt,,xa b,2024-02-11 04:37:00,dang  xu ly,
+FB1060,cd119,moi truong,trực tiếp,phòng tnmt,,xa b,2024-01-13 05:43:00,dang  xu ly,
+FB1061, CD142,hạ tầng,website,phong  tnmt,,,,,
+FB1062,CD146,an ninh,hot line,ubnd phường,2024-02-16 04:11:00,quan 1,,,
+FB1063, CD118,hạ tầng,truc tiep,công an,,,,,
+FB1064,CD112 ,moi truong,app,ubnd phường,,,,,
+FB1065,CD104,ha  tang,website,ubnd phường,2024-01-20 00:11:00,phường a,,da xu ly,8.0
+FB1066,CD105,an  ninh,trực tiếp,ubnd  phuong,2024-02-25 13:22:00,phuong a,2024-03-02 19:52:00,đang xử lý,72.0
+FB1067, CD126,thu tuc,web site,công an,2024-01-30 23:14:00,,,,
+FB1068,CD145,môi trường,app,phòng tnmt,2024-03-01 13:20:00,phuong a,2024-01-04 00:34:00,đang xử lý,72.0
+FB1068,CD145,môi trường,app,phòng tnmt,2024-03-01 13:20:00,phuong a,,,8.0
+FB1068,CD145,môi trường,app,phòng tnmt,2024-03-01 13:20:00,phuong a,2024-01-17 20:25:00,da xu ly,
+FB1069, CD142,ha tang,truc tiep,cong an,2024-01-06 16:57:00,,,đã xử lý,72.0
+FB1070,CD121,thủ tục hành chính,app,cong  an,2024-01-06 10:45:00,quận 1,,,
+FB1071,CD128 ,an  ninh,truc tiep,cong an,,,,,
+FB1071,CD128 ,an  ninh,truc tiep,cong an,,,,dang  xu ly,
+FB1071,CD128 ,an  ninh,truc tiep,cong an,,,,từ chối,24.0
+FB1072,CD128 ,môi trường,hot line,công an,,,,,
+FB1073, CD118,thủ tục hành chính,hot line,phòng tnmt,2024-01-15 15:38:00,,,,72.0
+FB1074,CD128 ,ha  tang,hot line,phong tnmt,,,,tu choi,
+FB1075,CD127 ,an ninh,app,phòng tnmt,2024-02-13 22:10:00,,,từ chối,
+FB1075,CD127 ,an ninh,app,phòng tnmt,2024-02-13 22:10:00,,,tu choi,72.0
+FB1076, CD139,thu tuc,hotline,ubnd phuong,,,2024-02-14 10:55:00,tu choi,8.0
+FB1077,cd103,hạ tầng,website,phong tnmt,2024-02-08 10:26:00,quận 1,,,
+FB1078,CD145,ha tang,hot line,cong  an,2024-01-14 07:47:00,phuong a,,,
+FB1079, CD141,moi truong,app,cong  an,2024-01-17 12:51:00,,,,
+FB1080,CD117,ha tang,app,ubnd  phuong,,quan 1,,,
+FB1081,cd120,hạ tầng,app,phong  tnmt,2024-01-25 02:56:00,quan 1,2024-01-09 04:51:00,đang xử lý,
+FB1082,CD145,hạ tầng,app,cong an,,phuong a,2024-02-19 16:00:00,dang  xu ly,72.0
+FB1083,cd133,môi trường,website,ubnd phuong,,phường a,,,
+FB1084,CD104,ha tang,app,cong  an,2024-02-28 20:00:00,phường a,,,
+FB1085,CD127 ,ha  tang,truc tiep,phòng tnmt,,,2024-01-02 19:09:00,từ chối,24.0
+FB1086,cd136,thu tuc,app,cong an,,xã b,,,
+FB1087,CD135,hạ tầng,trực tiếp,phòng tnmt,2024-01-29 13:53:00,quan 1,2024-01-31 23:56:00,da xu ly,24.0
+FB1088,cd106,thu tuc,truc tiep,cong an,2024-02-16 08:00:00,xã b,,tu choi,8.0
+FB1089, CD148,an  ninh,website,cong an,2024-01-29 11:50:00,,,đã xử lý,72.0
+FB1090,cd106,môi trường,app,ubnd phường,2024-02-01 15:10:00,xã b,,tu choi,
+FB1090,cd106,môi trường,app,ubnd phường,2024-02-01 15:10:00,xã b,,dang  xu ly,
+FB1091,CD123,môi trường,app,ubnd phường,,quận 1,2024-03-02 17:19:00,tu choi,8.0
+FB1091,CD123,môi trường,app,ubnd phường,,quận 1,2024-01-20 19:01:00,đã xử lý,
+FB1092,cd101,thu tuc,web site,cong an,2024-01-30 11:32:00,xa  b,,dang  xu ly,8.0
+FB1093,CD129 ,ha tang,app,công an,,,,,
+FB1094,cd106,thủ tục hành chính,app,ubnd  phuong,2024-01-20 03:08:00,xã b,2024-01-19 21:33:00,dang  xu ly,4.0
+FB1095,CD121,thủ tục hành chính,app,công an,2024-01-10 01:45:00,quận 1,,,
+FB1096,CD143,ha tang,app,phong  tnmt,2024-01-19 01:41:00,quan 1,,,
+FB1097,CD123,hạ tầng,app,phong  tnmt,,quận 1,,,
+FB1098, CD122,ha tang,website,ubnd  phuong,2024-01-07 02:51:00,,2024-02-28 23:16:00,dang  xu ly,
+FB1099, CD142,an  ninh,web site,phong tnmt,,,,,
+FB1100,cd119,ha tang,website,cong an,,xa b,2024-02-13 14:19:00,từ chối,24.0
+FB1100,cd119,ha tang,website,cong an,,xa b,,đang xử lý,
+FB1101,CD100 ,môi trường,app,phong  tnmt,,,,,4.0
+FB1102,CD115 ,hạ tầng,app,phong  tnmt,2024-02-03 19:42:00,,,,
+FB1103, CD142,môi trường,app,phong  tnmt,2024-02-05 02:43:00,,,đang xử lý,72.0
+FB1104,CD127 ,môi trường,hotline,ubnd phường,,,,,
+FB1105,CD144 ,thu tuc,truc tiep,công an,2024-01-19 14:16:00,,,,
+FB1106,CD112 ,thu tuc,web site,cong  an,2024-02-17 04:57:00,,,,
+FB1107,cd106,moi truong,hot line,phòng tnmt,2024-02-18 15:35:00,xã b,,từ chối,
+FB1107,cd106,moi truong,hot line,phòng tnmt,2024-02-18 15:35:00,xã b,2024-02-10 20:05:00,đang xử lý,
+FB1108, CD148,thu tuc,hotline,phong  tnmt,,,,tu choi,72.0
+FB1108, CD148,thu tuc,hotline,phong  tnmt,,,2024-02-10 22:06:00,đang xử lý,4.0
+FB1109,CD117,thủ tục hành chính,app,ubnd  phuong,,quan 1,,từ chối,
+FB1110,CD123,an ninh,hotline,phong  tnmt,,quận 1,,,
+FB1111, CD114,thủ tục hành chính,app,ubnd  phuong,2024-01-09 01:17:00,,2024-01-30 04:40:00,da xu ly,12.0
+FB1111, CD114,thủ tục hành chính,app,ubnd  phuong,2024-01-09 01:17:00,,,đã xử lý,
+FB1112, CD126,môi trường,app,cong  an,2024-01-17 03:23:00,,,đã xử lý,8.0
+FB1113, CD140,ha tang,hotline,phong  tnmt,,,,đã xử lý,
+FB1114, CD140,an  ninh,app,ubnd  phuong,2024-01-14 10:20:00,,,da xu ly,4.0
+FB1114, CD140,an  ninh,app,ubnd  phuong,2024-01-14 10:20:00,,,,
+FB1114, CD140,an  ninh,app,ubnd  phuong,2024-01-14 10:20:00,,,tu choi,8.0
+FB1115, CD148,ha tang,hot line,ubnd phuong,,,2024-02-14 22:09:00,,24.0
+FB1116,CD123,an  ninh,app,công an,2024-01-25 15:33:00,quận 1,2024-01-25 15:48:00,đang xử lý,
+FB1117, CD131,môi trường,web site,ubnd phường,,,,tu choi,4.0
+FB1118,cd107,hạ tầng,app,phong  tnmt,,quan 1,2024-02-17 23:37:00,da xu ly,12.0
+FB1119,cd106,ha  tang,app,phong tnmt,,xã b,,,
